@@ -3,17 +3,17 @@
 <h1 align="center">Hi there 👋, I'm Augusto Brito</h1>
 <h3 align="center">Web & Mobile Application Developer</h3>
 <p align="center">
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" alt="javascript" width="32" height="32"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-plain.svg" alt="typescript" width="32" height="32"/>
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-plain.svg" alt="java" width="32" height="32"/>
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-plain.svg" alt="python" width="32" height="32"/>
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="32" height="32"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="32" height="32"/>
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/git/git-plain.svg" alt="git" width="32" height="32"/>
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="32" height="32"/>
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" alt="html5" width="32" height="32"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" alt="css3" width="32" height="32"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="32" height="32"/> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="32" height="32"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="32" height="32"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="python" width="32" height="32"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="32" height="32"/> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="32" height="32"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="32" height="32"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="32" height="32"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="32" height="32"/> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="32" height="32"/> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="32" height="32"/> 
 </p>
 
 - 🔭 I’m currently working on [Capela Software](http://www.capela.com.br/capela/)
