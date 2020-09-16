@@ -17,8 +17,9 @@
 </p>
 
 - 🔭 I’m currently working on [Capela Software](http://www.capela.com.br/capela/) and  [Teachfy](https://github.com/teachfy) 
-- 💻 You can find my projects at [augustobrit.github.io](https://augustobrit.github.io)
-- 📫 How to reach me **augustobrito@outlook.com**
+- 💻 You can find my projects here [Repositories](https://github.com/augustobritome?tab=repositories)
+- 📫 How to reach me [Mail](mailto:augustobrito@outlook.com)
+- 🌎 Stay up to date [Website](https://augustobrito.me)
 
 <p align="center">
 	<a href="https://github.com/augustobritome"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
