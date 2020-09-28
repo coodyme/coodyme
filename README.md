@@ -16,7 +16,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="32" height="32"/> 
 </p>
 
-- 🔭 I’m currently working on [Capela Software](http://www.capela.com.br/capela/) and  [Teachfy](https://github.com/teachfy) 
+- 🔭 I’m currently working on [Teachfy](https://github.com/teachfy) 
 - 💻 You can find my projects here [Repositories](https://github.com/augustobritome?tab=repositories)
 - 📫 How to reach me [Mail](mailto:augustobrito@outlook.com)
 - 🌎 Stay up to date [Website](https://augustobrito.me)
