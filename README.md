@@ -1,20 +1,8 @@
 
 
 <h1 align="center">Hi there 👋, I'm Augusto Brito</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-<p align="center">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="32" height="32"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="32" height="32"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="python" width="32" height="32"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="32" height="32"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="32" height="32"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="32" height="32"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="32" height="32"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="32" height="32"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="32" height="32"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="32" height="32"/> 
-</p>
+<h3 align="center">Developer</h3>
+
 
 - 🔭 I’m currently working on [Teachfy](https://github.com/teachfy) 
 - 💻 You can find my projects here [Repositories](https://github.com/augustobritome?tab=repositories)
