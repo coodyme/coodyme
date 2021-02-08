@@ -16,7 +16,6 @@
 	<a href="https://www.youtube.com/c/AugustoFBrito/videos?view_as=subscriber"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
 	<a href="https://www.twitter.com/augustobritome"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
 	<a href="https://medium.com/@augustobritome"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
-	<img src="https://komarev.com/ghpvc/?username=augustobritome" alt="augustobrit" />
 </p>
 
 
