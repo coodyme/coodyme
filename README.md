@@ -3,11 +3,6 @@
 <h1 align="center">Hello there 👋, I'm Augusto Brito</h1>
 <h3 align="center">Self-taught developer with a degree in Engineering</h3>
 
-* 💻 You can find my projects here [Repositories](https://github.com/augustobritome?tab=repositories)
-* 📫 Feel free to send me a mail [Mail](mailto:augustobrito@outlook.com) 
-* 🌎 How to reach me [Website](https://augustobrito.me)
-
-
 <details>
 <summary>⚡️ Stay up to date</summary>
 <br />
@@ -32,7 +27,6 @@
 </p>
 
 </details>
-
 
 
 
