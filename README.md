@@ -15,7 +15,7 @@
 </details>
 
 <details>
-<summary>👍 Follow me in social networks</summary>
+<summary>👍 Follow me on Social Networks</summary>
 <br />
 
 <p align="left">
