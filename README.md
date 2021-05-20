@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello there 👋, I'm Augusto Brito</h1>
-<h3 align="center">Self-taught developer with a degree in Engineering</h3>
+<h3 align="center">Follow me in social networks and stay up to date!</h3>
 
 <details>
 <summary>⚡️ Stay up to date</summary>
