@@ -1,4 +1,5 @@
-![Abhinandan Trilokia](https://github.com/augustobritodev/augustobritodev/blob/master/logo.png)
+
+<img src="https://github.com/augustobritodev/augustobritodev/blob/master/logo.png" alt="Girl in a jacket" width="270" height="152">
 
 <p align="center">
 I love to dig into development problems and solve them with modern technology. I create, scale and optimize web and mobile applications. To accomplish this, i'm currently working with JavaScript, TypeScript and their following technologies like React, React Native and Electron.
