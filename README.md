@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-I love to dig into development problems and solve them with modern technology. I create, scale and optimize web and mobile applications. To accomplish this, i'm currently working with JavaScript, TypeScript and their following technologies like React, React Native and Electron.
+I love to dig into development problems and solve them with modern technology. I create, scale and optimize web and mobile applications. To accomplish this, i'm currently working with JavaScript, TypeScript and their following technologies like Node, React, React Native and Electron.
 </p>
 
 <br />
