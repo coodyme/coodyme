@@ -16,7 +16,7 @@
     
   [![Instagram Badge](https://img.shields.io/badge/-@augustobritodev-282828?style=flat-square&logo=instagram&logoColor=A89984&link=https://www.instagram.com/augustobritodev)](https://www.instagram.com/augustobritodev) 
   [![Facebook Badge](https://img.shields.io/badge/-/augustobritodev-282828?style=flat-square&logo=facebook&logoColor=A89984&link=https://www.facebook.com/augustobritodev)](https://www.facebook.com/augustobritodev)
-  [![Twitter Badge](https://img.shields.io/badge/-@augustobritodev-282828?style=flat-square&labelColor=A89984&logo=twitter&logoColor=A89984&link=https://twitter.com/augustobritodev)](https://twitter.com/augustobritodev) 
+  [![Twitter Badge](https://img.shields.io/badge/-@augustobritodev-282828?style=flat-square&4&logo=twitter&logoColor=A89984&link=https://twitter.com/augustobritodev)](https://twitter.com/augustobritodev) 
   [![Linkedin Badge](https://img.shields.io/badge/-/augustobritodev-282828?style=flat-square&logo=Linkedin&logoColor=A89984&link=https://www.linkedin.com/in/augustobritodev)](https://www.linkedin.com/in/augustobritodev) 
   [![Dev.to Badge](https://img.shields.io/badge/-/augustobritodev-282828?style=flat-square&logo=dev.to&logoColor=A89984&link=https://dev.to/@augustobritodev)](https://dev.to/@augustobritodev)
   [![Medium Badge](https://img.shields.io/badge/-/augustobritodev-282828?style=flat-square&logo=medium&logoColor=A89984&link=https://medium.com/@augustobritodev)](https://medium.com/@augustobritodev)
