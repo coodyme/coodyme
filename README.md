@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://github.com/augustobritodev/augustobritodev/blob/master/logo.png" alt="Augusto Brito" width="128" height="128">
+  
   </div>
   
   <h1 align="center">Hello there 👋, I'm Augusto Brito</h1>
