@@ -15,7 +15,7 @@
   <div align="center"> 
   
   <p align="center">
-    Follow me <i>@augustobritodev</i> in
+    Follow me <i>@augustobritodev</i>
   </p>
     
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-282828?style=for-the-badge&logo=instagram&logoColor=A89984&link=https://www.instagram.com/augustobritodev)](https://www.instagram.com/augustobritodev) 
