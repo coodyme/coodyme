@@ -7,7 +7,7 @@
   <br />
   
   <p align="center">
-  I love to dig into development problems and solve them with modern technology. I create, scale and optimize web, mobile and desktop applications. To accomplish this, i'm currently working with JavaScript, TypeScript, Rust, Python and their following technologies like Node, React, React Native, Tauri and so on.
+  I love to dig into development problems and solve them with modern technology. I create, scale and optimize web, mobile and desktop applications. To accomplish this, i'm currently working with JavaScript, TypeScript, Rust, Python and their following technologies like Node, React, React Native and so on.
   </p>
   
   <br />
