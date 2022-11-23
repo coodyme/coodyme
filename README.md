@@ -10,7 +10,13 @@
 I love to dig into development problems and solve them with modern technology. I create, scale, and optimize web, mobile, and desktop applications.
   </p>
   
-  <br />
+   <br />
+  
+  <p align="center">
+   <i>"If I have seen further it is by standing on the shoulders of Giants." - Isaac Newton</i>
+  </p>
+  
+   <br /> <br /> <br />
   
   <div align="center"> 
   
@@ -27,9 +33,5 @@ I love to dig into development problems and solve them with modern technology. I
   
   </div>
   
-  <br />
-  
-  <p align="center">
-   <i>"If I have seen further it is by standing on the shoulders of Giants." - Isaac Newton</i>
-  </p>
+
   
