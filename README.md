@@ -14,7 +14,10 @@
 
 I love to dig into development problems and solve them with modern technology. I create, scale, and optimize web, mobile, and desktop applications.
 
-  
+</br>
+
+- ⚡ You can learn more about my work on [COODY](https://coody.me) and [YDOOC](https://ydooc.me)
+- 🏁 Find me on [Linkedin](https://www.linkedin.com/in/augustobritodev/)
 
   
 
