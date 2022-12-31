@@ -5,7 +5,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/e3446efd9255425bb752cdd354bf66fe.png?r=dvr"
+      src="./devcard.svg"
     />
   </a>
 </div>
