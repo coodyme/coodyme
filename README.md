@@ -10,14 +10,14 @@
   </a>
 </div>
 
-#### I'm Augusto Brito,
+#### I'm Augusto Brito
 
-I love to dig into development problems and solve them with modern technology. I create, scale, and optimize web, mobile, and desktop applications.
+I love to dig into development problems and solve them with modern technology, creating, scaling, and optmizing web, mobile, and desktop applications. I also write blog posts and contribute to open source projects.
 
 </br>
 
-- ⚡ You can learn more about my work on [COODY](https://coody.me) and [YDOOC](https://ydooc.me)
-- 🏁 Find me on [Linkedin](https://www.linkedin.com/in/augustobritodev/)
+#### ⚡ You can find more about my work on [COODY](https://coody.me) and [YDOOC](https://ydooc.me)
+#### 🏁 How to reach me: [Linkedin](https://www.linkedin.com/in/augustobritodev/) or [Mail](mailto:augusto@ydooc.me)
 
   
 
