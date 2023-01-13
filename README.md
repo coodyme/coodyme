@@ -12,7 +12,9 @@
 
 #### I'm Augusto Brito
 
-I love to dig into development problems and solve them with modern technology, creating, scaling, and optmizing web, mobile, and desktop applications. I also write blog posts and contribute to open source projects.
+I love to dig into development problems and solve them with modern technology. I create, scale and optimize applications. 
+
+I also write blog posts and contribute to open source projects.
 
 </br>
 
