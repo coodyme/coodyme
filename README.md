@@ -18,8 +18,8 @@ I also write blog posts and contribute to open source projects.
 
 </br>
 
-#### ⚡ You can find more about my work on [COODY](https://coody.me) and [YDOOC](https://ydooc.me)
-#### 🏁 How to reach me: [Linkedin](https://www.linkedin.com/in/augustobritodev/) or [Mail](mailto:augusto@ydooc.me)
+#### ∞ You can find more about my work on [COODY](https://coody.me) and [YDOOC](https://ydooc.me)
+#### ∞ How to reach me: [Linkedin](https://www.linkedin.com/in/augustobritodev/) or [Mail](mailto:augusto@ydooc.me)
 
   
 
