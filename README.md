@@ -10,7 +10,7 @@
   </a>
 </div>
 
-#### I'm Augusto Brito
+### I'm Augusto Brito
 
 I love to dig into development problems and solve them with modern technology. I create, scale and optimize applications. 
 
