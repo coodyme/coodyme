@@ -16,6 +16,3 @@ I love to dig into development problems and solve them with modern technology. I
 
 I also write blog posts and contribute to open source projects.
 
-</br>
-
-#### ∞ You can find more about my work on [COODY](https://coody.me) and [YDOOC](https://ydooc.me) 
