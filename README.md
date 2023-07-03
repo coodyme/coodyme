@@ -12,7 +12,10 @@
 
 ### I'm Augusto Brito
 
-I love to dig into development problems and solve them with modern technology. I create, scale and optimize applications. 
+I love to dig into development challenges and find innovative solutions using cutting-edge technology.
 
-I also write blog posts and contribute to open source projects.
+My expertise lies in creating, scaling, and optimizing applications to deliver high-quality software solutions.
+
+In addition to my development work, I enjoy sharing my knowledge and insights through [articles](https://coody.me/articles), where I discuss various tech topics and share best practices. Furthermore, I actively contribute to [open-source projects](https://coody.me/os), collaborating with the developer community to drive progress.
+
 
