@@ -1,5 +1,3 @@
-## Hello there 👋
-
 <div align="left">
   <a href="https://api.daily.dev/get?r=augustobritodev" target="_blank">
     <img
@@ -9,8 +7,6 @@
     />
   </a>
 </div>
-
-### I'm Augusto Brito
 
 I love to dig into development challenges and find innovative solutions using cutting-edge technology.
 
