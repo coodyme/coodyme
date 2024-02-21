@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/coodyme">
+    <img align="right"  src="./devcard.png" width="30%" alt="Dev Card"/>
+</a>
 
 I love to dig into development challenges and find innovative solutions using cutting-edge technology.
 
@@ -7,7 +10,3 @@ In addition to my development work, I enjoy sharing my knowledge and insights th
 
 Let's [connect](https://linkedin.com/in/coodyme) and discuss how we can make a positive impact together!
 
-
-<div align="right" width="33%">
-  <a href="https://app.daily.dev/coodyme"><img   src="./devcard.png" width="256" alt="Dev Card"/></a>
-</div>
