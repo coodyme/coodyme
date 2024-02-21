@@ -1,6 +1,5 @@
 <div align="left">
-<a href="https://app.daily.dev/coodyme"><img src="https://api.daily.dev/devcards/v2/devard?type=default&r=haq" width="356" alt="COODY Dev Card"/></a>
-  </a>
+  <a href="https://app.daily.dev/coodyme"><img src="./devcard.png" width="356" alt="Dev Card"/></a>
 </div>
 
 I love to dig into development challenges and find innovative solutions using cutting-edge technology.
