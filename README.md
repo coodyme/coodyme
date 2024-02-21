@@ -1,10 +1,5 @@
 <div align="left">
-  <a href="https://api.daily.dev/get?r=coodyme" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="./devcard.svg"
-    />
+<a href="https://app.daily.dev/coodyme"><img src="https://api.daily.dev/devcards/v2/devard?type=default&r=haq" width="356" alt="COODY Dev Card"/></a>
   </a>
 </div>
 
